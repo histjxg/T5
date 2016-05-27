@@ -5,6 +5,7 @@ public class GitDemo {
 		System.out.println("odk");
 		System.out.println("syso");
 		System.out.println("system");
+		System.out.println("nihao");
 	}
 
 }
